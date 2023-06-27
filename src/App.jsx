@@ -6,7 +6,6 @@ import Personajes from "./components/Personajes/personajes";
 import Personaje from "./components/Personajes/Personaje/personaje";
 import Ubicacion from "./components/Ubicaciones/Ubucacion/ubicacion";
 import Ubicaciones from "./components/Ubicaciones/ubicaciones";
-import Acordeon from "./components/Acordeon/acordeon";
 import Episodios from "./components/Episodios/espisodios";
 import Episodio from "./components/Episodios/Episodio/episodio";
 
